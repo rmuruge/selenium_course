@@ -1,0 +1,3 @@
+browserName=chrome
+args=['start-maximized']
+webdriver.chrome.driver=/home/rmuruge/tools/webdrivers/chromedriver

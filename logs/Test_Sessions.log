@@ -1,0 +1,1310 @@
+2020-08-09 12:47:21 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 12:47:21 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 12:47:21 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 12:47:21 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 12:47:21 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 12:47:21 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 12:48:38 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 12:48:38 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 12:48:39 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 12:48:39 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 12:48:39 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 12:48:39 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 15:39:51 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 15:39:51 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 15:39:51 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 15:39:51 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 15:39:51 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 15:39:51 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 15:39:51 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 15:39:51 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:02:25 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:02:25 DEBUG TestNgTestBase:34 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:02:26 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 16:02:26 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 16:02:26 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:02:26 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:05:01 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:05:01 DEBUG TestNgTestBase:34 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:05:01 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 16:05:01 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 16:05:01 DEBUG TestNgTestBase:50 - Grid URL is : null
+2020-08-09 16:05:01 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:05:01 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:05:01 DEBUG TestNgTestBase:50 - Grid URL is : null
+2020-08-09 16:05:01 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:05:01 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:05:01 DEBUG TestNgTestBase:50 - Grid URL is : null
+2020-08-09 16:08:43 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:08:43 DEBUG TestNgTestBase:34 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:08:43 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 16:08:43 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 16:08:43 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:4444/wd/hub/
+2020-08-09 16:08:43 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:08:43 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:08:43 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:08:43 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:4444/wd/hub/
+2020-08-09 16:08:43 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:08:43 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:4444/wd/hub/
+2020-08-09 16:37:30 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:37:30 DEBUG TestNgTestBase:34 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:37:30 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 16:37:30 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:37:30 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:37:30 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub/
+2020-08-09 16:37:30 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:37:30 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:37:30 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub/
+2020-08-09 16:37:30 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 16:37:30 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub/
+2020-08-09 16:44:44 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:44:44 DEBUG TestNgTestBase:34 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:44:44 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:44:44 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:44:44 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:44:44 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:44:44 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:44:44 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 16:44:44 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 16:44:44 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:44:44 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:44:45 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:44:45 DEBUG TestNgTestBase:34 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:44:45 DEBUG TestNgTestBase:47 - Browser Name Passed firefox
+2020-08-09 16:44:45 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is firefox
+2020-08-09 16:44:45 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:44:45 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:44:45 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:44:45 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:44:45 DEBUG TestNgTestBase:47 - Browser Name Passed chrome
+2020-08-09 16:44:45 DEBUG TestNgTestBase:49 - Broswer in Capabilities  is chrome
+2020-08-09 16:44:45 DEBUG TestNgTestBase:50 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:53:02 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 16:53:02 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 16:53:02 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 16:53:02 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 16:53:02 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:53:02 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 16:53:02 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is firefox
+2020-08-09 16:53:02 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 16:53:02 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 16:53:02 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 16:53:02 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:11:16 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 17:11:16 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:11:16 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:11:16 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:11:16 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:11:16 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:11:16 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:11:16 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:11:16 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:11:16 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is firefox
+2020-08-09 17:11:16 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:12:37 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 17:12:37 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:12:37 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:12:37 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:12:37 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-09 17:12:37 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:12:37 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is firefox
+2020-08-09 17:12:37 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-09 17:12:37 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:12:37 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:12:37 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-09 17:28:04 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}}
+2020-08-09 17:28:04 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:28:04 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:28:04 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:28:04 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-09 17:28:04 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 17:28:04 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:28:04 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is firefox
+2020-08-09 17:28:04 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:32:59 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 17:32:59 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:32:59 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:32:59 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is firefox
+2020-08-09 17:32:59 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-09 17:32:59 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:32:59 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:32:59 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:32:59 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 17:32:59 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is ie
+2020-08-09 17:32:59 DEBUG TestNgTestBase:51 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:36:47 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 17:36:47 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:36:47 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:36:47 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is firefox
+2020-08-09 17:36:47 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:36:47 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is chrome
+2020-08-09 17:36:47 DEBUG TestNgTestBase:58 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:36:47 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 17:36:47 DEBUG TestNgTestBase:50 - Broswer in Capabilities  is ie
+2020-08-09 17:36:47 DEBUG TestNgTestBase:58 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:36:47 DEBUG TestNgTestBase:58 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:39:07 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 17:39:07 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:39:07 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:39:07 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 17:39:07 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 17:39:07 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:39:07 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:39:07 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 17:39:07 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 17:39:07 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:39:07 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 17:39:07 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 17:39:07 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is ie
+2020-08-09 17:39:07 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:40:24 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 17:40:24 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:40:24 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:40:24 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 17:40:24 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 17:40:24 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:40:24 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 17:40:24 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 17:40:24 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is ie
+2020-08-09 17:40:24 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 17:40:24 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:40:24 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 17:40:24 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 17:40:24 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:48:14 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 17:48:14 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 17:48:14 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 17:48:14 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 17:48:14 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 17:48:14 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:48:14 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 17:48:14 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 17:48:14 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 17:48:14 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 17:48:14 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 17:48:14 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 17:48:14 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is ie
+2020-08-09 17:48:14 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:14:44 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:14:44 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:14:44 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:14:44 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:14:44 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:14:44 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:14:44 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:14:44 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:14:44 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:14:44 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:15:51 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:15:51 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:15:51 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:15:51 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:15:51 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:15:51 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:15:51 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:15:51 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:15:51 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:15:51 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:17:11 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:17:11 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:17:11 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:17:11 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:17:11 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:17:11 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:17:11 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:17:11 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:17:11 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:17:11 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:24:55 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:24:55 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:24:55 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:24:55 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:24:55 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:24:55 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:24:55 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:24:55 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:24:55 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:24:55 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:27:00 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:27:00 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:27:00 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:27:00 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:27:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:27:00 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:27:00 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:27:00 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:27:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:27:00 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:29:26 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:29:26 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:29:26 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:29:26 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:29:26 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:29:26 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:29:26 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:29:26 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:29:26 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:29:26 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:29:26 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 18:29:26 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:29:26 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is ie
+2020-08-09 18:29:26 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:31:00 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:31:00 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:31:00 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:31:00 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:31:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:31:00 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:31:00 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 18:31:00 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:31:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is ie
+2020-08-09 18:31:00 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:31:00 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:31:00 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:31:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:31:00 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:35:22 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:35:22 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:35:22 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-09 18:35:22 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:35:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-09 18:35:22 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:35:22 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-09 18:35:22 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-09 18:35:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-09 18:35:22 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:35:22 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-09 18:35:22 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-09 18:35:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is ie
+2020-08-09 18:35:22 DEBUG TestNgTestBase:60 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:43:35 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:43:35 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:43:35 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 18:43:35 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:43:35 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 18:43:35 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:43:35 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 18:43:35 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:43:35 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 18:43:35 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:43:35 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 18:43:35 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 18:43:35 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 18:43:35 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:43:39 DEBUG TestNgTestBase:63 - Current URL is : about:blank
+2020-08-09 18:43:45 DEBUG TestNgTestBase:63 - Current URL is : data:,
+2020-08-09 18:47:19 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:47:19 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:47:19 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 18:47:19 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:47:19 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 18:47:19 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:47:19 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 18:47:19 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:47:19 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 18:47:19 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:47:19 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 18:47:19 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 18:47:19 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 18:47:19 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:55:44 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:55:44 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:55:44 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 18:55:44 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:55:44 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 18:55:44 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:55:44 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 18:55:44 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:55:44 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 18:55:44 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:55:44 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 18:55:44 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 18:55:44 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 18:55:44 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 18:59:51 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 18:59:51 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 18:59:51 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 18:59:51 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:59:51 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 18:59:51 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:59:51 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 18:59:51 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 18:59:51 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 18:59:51 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 18:59:51 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 18:59:51 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 18:59:51 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 18:59:51 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:01:17 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:01:17 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:01:17 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:01:17 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:01:17 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:01:17 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:01:17 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:01:17 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:01:17 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:01:17 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:01:17 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:01:17 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:01:17 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:01:17 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:02:55 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:02:55 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:02:55 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:02:55 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:02:55 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:02:55 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:02:55 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:02:55 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:02:55 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:02:55 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:02:55 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:02:55 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:02:55 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:02:55 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:03:57 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:03:57 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:03:57 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:03:57 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:03:57 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:03:57 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:03:57 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:03:57 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:03:57 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:03:57 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:03:57 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:03:57 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:03:57 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:03:57 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:15:01 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:15:01 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:15:01 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:15:01 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:15:01 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:15:01 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:15:01 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:15:01 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:15:01 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:15:01 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:15:01 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:15:01 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:15:01 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:15:01 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:16:08 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:16:08 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:16:08 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:16:08 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:16:08 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:16:08 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:16:08 DEBUG TestNgTestBase:49 - Browser Name Passed remote
+2020-08-09 19:16:08 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:16:08 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:16:08 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:16:08 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:16:08 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:17:06 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:17:06 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:17:06 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:17:06 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:17:06 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:17:06 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:17:06 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:17:06 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:17:06 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:17:06 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:17:06 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:17:06 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:17:06 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:17:06 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:18:05 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:18:05 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:18:05 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:18:05 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:18:05 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:18:05 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:18:05 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:18:05 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:18:05 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:18:05 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:18:05 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:18:05 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:18:05 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:18:05 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:21:53 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:21:53 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:21:53 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:21:53 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:21:53 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:21:53 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:21:53 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:21:53 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:21:53 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:21:53 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:21:53 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:21:53 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:21:53 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:21:53 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:22:59 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:22:59 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:22:59 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+2020-08-09 19:22:59 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:22:59 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+2020-08-09 19:22:59 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:22:59 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+2020-08-09 19:22:59 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+2020-08-09 19:22:59 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+2020-08-09 19:22:59 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 19:22:59 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+2020-08-09 19:22:59 DEBUG TestNgTestBase:50 - Node  Name Passed local
+2020-08-09 19:22:59 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+2020-08-09 19:22:59 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:40:20 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:40:20 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:40:51 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:40:51 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:40:51 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:40:51 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:40:51 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:40:51 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:40:51 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:40:51 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is ie
+2020-08-09 19:40:51 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:40:51 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:40:51 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:40:52 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:40:58 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:43:20 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:43:20 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:43:20 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:43:20 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:43:20 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:43:20 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:43:20 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:43:20 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:43:20 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:43:20 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:43:20 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is ie
+2020-08-09 19:43:21 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:43:31 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:44:00 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:44:00 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:44:01 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:44:01 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:44:01 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:44:01 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:44:01 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:44:01 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:44:01 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:44:01 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:44:01 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is ie
+2020-08-09 19:44:02 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:44:07 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:54:34 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:54:34 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:54:34 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:54:34 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:54:34 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:54:34 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:54:34 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:54:34 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:54:34 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:54:34 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:54:34 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is ie
+2020-08-09 19:54:38 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:54:39 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:57:31 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:57:31 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:57:31 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:57:31 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:57:31 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:57:31 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:57:31 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:57:31 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is ie
+2020-08-09 19:57:31 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:57:31 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:57:31 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:57:44 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:57:49 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:58:31 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+2020-08-09 19:58:31 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:58:31 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:58:31 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:58:31 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:58:31 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:58:31 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:58:31 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:58:31 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:58:31 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:58:31 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is ie
+2020-08-09 19:58:36 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:58:37 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:59:20 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: internetexplorer, requireWindowFocus: true}}
+2020-08-09 19:59:20 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 19:59:20 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 19:59:20 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:59:20 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 19:59:20 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 19:59:20 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 19:59:20 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 19:59:20 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 19:59:20 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 19:59:20 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internetexplorer
+2020-08-09 19:59:21 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 19:59:26 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:04:33 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: internetexplorer, requireWindowFocus: true}}
+2020-08-09 20:04:33 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:04:33 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:04:33 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:04:33 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:04:33 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:04:33 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:04:33 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:04:33 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:04:33 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:04:33 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internetexplorer
+2020-08-09 20:05:01 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 20:05:02 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:09:39 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: IE, requireWindowFocus: true}}
+2020-08-09 20:09:39 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:09:39 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:09:39 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:09:39 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:09:39 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:09:39 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:09:39 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:09:39 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:09:39 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:09:39 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is IE
+2020-08-09 20:09:47 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:09:54 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 20:15:34 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: IE, requireWindowFocus: true}}
+2020-08-09 20:15:34 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:15:34 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:15:34 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:15:34 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:15:34 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:15:34 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:15:34 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:15:34 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:15:34 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:15:34 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is IE
+2020-08-09 20:15:35 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:15:50 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:17:57 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: "Internet Explorer", requireWindowFocus: true}}
+2020-08-09 20:17:57 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:17:57 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:17:57 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:17:57 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:17:57 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:17:57 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:17:57 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is "Internet Explorer"
+2020-08-09 20:17:57 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:17:57 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:17:57 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:18:01 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:18:08 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:19:49 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: Internet Explorer, requireWindowFocus: true}}
+2020-08-09 20:19:49 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:19:49 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:19:49 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:19:49 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:19:49 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:19:49 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:19:49 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is Internet Explorer
+2020-08-09 20:19:49 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:19:49 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:19:49 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:19:50 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:19:56 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:32:36 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-09 20:32:36 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:32:36 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:32:36 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:32:36 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:32:36 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:32:36 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:32:36 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:32:36 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:32:36 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:32:36 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internet explorer
+2020-08-09 20:32:40 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:32:46 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:34:58 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-09 20:34:58 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:34:58 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:34:58 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:34:58 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:34:58 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:34:58 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:34:58 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:34:58 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:34:58 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:34:58 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internet explorer
+2020-08-09 20:35:02 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:35:09 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 20:35:09 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:36:44 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-09 20:36:44 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:36:44 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:36:44 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:36:44 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:36:44 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:36:44 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:36:44 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:36:44 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:36:44 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:36:44 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internet explorer
+2020-08-09 20:36:48 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:36:49 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:36:52 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 20:38:10 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-09 20:38:10 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:38:10 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:38:11 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:38:11 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:38:11 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:38:11 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:38:11 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:38:11 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:38:11 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:38:11 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internet explorer
+2020-08-09 20:38:14 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:38:17 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-09 20:38:17 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:40:21 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-09 20:40:21 DEBUG TestNgTestBase:38 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-09 20:40:21 DEBUG TestNgTestBase:51 - Browser Name Passed chrome
+2020-08-09 20:40:21 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:40:21 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is chrome
+2020-08-09 20:40:21 DEBUG TestNgTestBase:51 - Browser Name Passed firefox
+2020-08-09 20:40:21 DEBUG TestNgTestBase:52 - Node  Name Passed local
+2020-08-09 20:40:21 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is firefox
+2020-08-09 20:40:21 DEBUG TestNgTestBase:51 - Browser Name Passed ie
+2020-08-09 20:40:21 DEBUG TestNgTestBase:52 - Node  Name Passed remote
+2020-08-09 20:40:21 DEBUG TestNgTestBase:54 - Broswer in Capabilities  is internet explorer
+2020-08-09 20:40:25 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:40:26 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-09 20:40:31 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-10 01:41:10 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 01:41:10 DEBUG TestNgTestBase:35 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+2020-08-10 01:41:10 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 01:41:10 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 01:41:10 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 01:41:11 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 01:53:59 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 01:53:59 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 01:53:59 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 01:53:59 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 01:53:59 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 01:54:00 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 01:56:57 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 01:56:57 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 01:56:57 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 01:56:57 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 01:56:57 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 01:56:58 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 01:58:05 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 01:58:05 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 01:58:05 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 01:58:05 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 01:58:05 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 01:58:06 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:03:20 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:03:20 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:03:20 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:03:20 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:03:20 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:03:21 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:07:33 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:07:33 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:07:33 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:07:33 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:07:33 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:07:34 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:13:04 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:13:04 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:13:04 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:13:04 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:13:04 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:13:05 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:13:11 DEBUG GoFilePage:41 - Text in the Button is Click here
+2020-08-10 02:16:20 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:16:20 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:16:20 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:16:20 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:16:20 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:16:21 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:16:23 DEBUG GoFilePage:41 - Text in the Button is Click here
+2020-08-10 02:40:08 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:40:08 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:40:08 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:40:08 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:40:08 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:40:09 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:42:15 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:42:15 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:42:15 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:42:15 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:42:15 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:42:16 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:42:19 DEBUG GoFilePage:50 - Text in the Button is Click here
+2020-08-10 02:44:49 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:44:49 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:44:49 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:44:49 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:44:49 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:44:50 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:44:52 DEBUG GoFilePage:50 - Text in the Button is Click here
+2020-08-10 02:51:29 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:51:29 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:51:29 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:51:29 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:51:29 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:51:30 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:51:33 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-10 02:56:28 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 02:56:28 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 02:56:28 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 02:56:28 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 02:56:28 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 02:56:29 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 02:56:32 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-10 03:08:39 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:08:39 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:08:39 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-10 03:08:39 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:08:39 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-10 03:08:42 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:08:47 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-10 03:10:55 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:10:55 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:10:55 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-10 03:10:55 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:10:55 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-10 03:10:59 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:11:02 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-10 03:13:45 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:13:45 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:13:45 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-10 03:13:45 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:13:45 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-10 03:13:49 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:13:52 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-10 03:15:44 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:15:44 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:15:44 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-10 03:15:44 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:15:44 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-10 03:15:47 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:15:50 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-10 03:21:50 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:21:50 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:21:50 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 03:21:50 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:21:50 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 03:21:51 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:21:54 DEBUG GoFilePage:56 - Text in the Button is Click here
+2020-08-10 03:23:03 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:23:03 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:23:03 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 03:23:03 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:23:03 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 03:23:04 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:23:07 DEBUG GoFilePage:56 - Text in the Button is Click here
+2020-08-10 03:26:30 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:26:30 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:26:30 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 03:26:30 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:26:30 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 03:26:31 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:26:34 DEBUG GoFilePage:56 - Text in the Button is Click here
+2020-08-10 03:28:17 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:28:17 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:28:17 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 03:28:17 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:28:17 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 03:28:18 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:28:20 DEBUG GoFilePage:56 - Text in the Button is Click here
+2020-08-10 03:30:29 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-10 03:30:29 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-10 03:30:29 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-10 03:30:29 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-10 03:30:29 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-10 03:30:30 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-10 03:30:33 DEBUG GoFilePage:56 - Text in the Button is Click here
+2020-08-11 02:38:05 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:38:05 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:38:05 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:38:05 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:38:05 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:38:06 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:38:09 DEBUG GoFilePage:56 - Text in the Button is Click here
+2020-08-11 02:39:08 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:39:08 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:39:08 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:39:08 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:39:08 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:39:09 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:39:12 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:42:43 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:42:43 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:42:43 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:42:43 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:42:43 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:42:44 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:42:47 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:48:39 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:48:39 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:48:39 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:48:39 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:48:39 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:48:40 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:48:42 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:50:00 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:50:00 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:50:00 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:50:00 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:50:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:50:01 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:50:04 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:50:06 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 02:50:06 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 02:51:14 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:51:14 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:51:14 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:51:14 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:51:14 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:51:15 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:51:18 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:51:19 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 02:51:19 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 02:52:37 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:52:37 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:52:37 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:52:37 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:52:37 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:52:38 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:52:41 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:52:42 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 02:52:43 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 02:52:43 DEBUG GoFilePage:85 - in UploadFile3
+2020-08-11 02:54:43 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:54:43 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:54:43 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:54:43 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:54:43 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:54:44 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:54:47 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:54:48 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 02:54:48 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 02:59:45 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 02:59:45 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 02:59:45 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 02:59:45 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 02:59:45 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 02:59:46 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 02:59:49 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 02:59:50 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 02:59:51 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 03:01:22 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:01:22 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:01:22 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:01:22 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:01:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:01:23 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:01:26 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 03:01:27 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 03:01:28 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 03:01:31 DEBUG GoFilePage:91 - in UploadFile3
+2020-08-11 03:05:30 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:05:30 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:05:30 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:05:30 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:05:30 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:05:32 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:05:34 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 03:05:36 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 03:05:36 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 03:06:39 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:06:39 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:06:39 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:06:39 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:06:39 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:06:40 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:06:43 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 03:06:45 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 03:06:45 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 03:12:18 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:12:18 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:12:18 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:12:18 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:12:18 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:12:19 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:12:22 DEBUG GoFilePage:55 - Text in the Button is Click here
+2020-08-11 03:12:24 DEBUG GoFilePage:81 - in UploadFile1
+2020-08-11 03:12:24 DEBUG GoFilePage:83 - in UploadFile2
+2020-08-11 03:20:27 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:20:27 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:20:27 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:20:27 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:20:27 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:20:28 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:20:31 DEBUG GoFilePage:59 - Text in the Button is Click here
+2020-08-11 03:20:33 DEBUG GoFilePage:85 - in UploadFile1
+2020-08-11 03:20:33 DEBUG GoFilePage:87 - in UploadFile2
+2020-08-11 03:21:11 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:21:11 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:21:11 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:21:11 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:21:11 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:21:12 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:21:14 DEBUG GoFilePage:59 - Text in the Button is Click here
+2020-08-11 03:21:16 DEBUG GoFilePage:85 - in UploadFile1
+2020-08-11 03:21:16 DEBUG GoFilePage:87 - in UploadFile2
+2020-08-11 03:21:16 DEBUG GoFilePage:88 - DISP : [[RemoteWebDriver: chrome on LINUX (bf4a3da26c8a47ace976e5040b104a30)] -> id: mainContent]
+2020-08-11 03:21:16 DEBUG GoFilePage:97 - in UploadFile3
+2020-08-11 03:21:58 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:21:58 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:21:58 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:21:58 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:21:58 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:21:59 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:22:02 DEBUG GoFilePage:59 - Text in the Button is Click here
+2020-08-11 03:22:03 DEBUG GoFilePage:85 - in UploadFile1
+2020-08-11 03:22:03 DEBUG GoFilePage:87 - in UploadFile2
+2020-08-11 03:23:07 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:23:07 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:23:07 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:23:07 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:23:07 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:23:08 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:23:11 DEBUG GoFilePage:59 - Text in the Button is Click here
+2020-08-11 03:23:37 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:23:37 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:23:37 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:23:37 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:23:37 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:23:38 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:23:41 DEBUG GoFilePage:59 - Text in the Button is Click here
+2020-08-11 03:24:09 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:24:09 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:24:09 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:24:09 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:24:09 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:24:10 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:24:13 DEBUG GoFilePage:59 - Text in the Button is Click here
+2020-08-11 03:29:25 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:29:25 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:29:25 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:29:25 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:29:25 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:29:26 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:29:29 DEBUG GoFilePage:63 - Text in the Button is Click here
+2020-08-11 03:30:14 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:30:14 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:30:14 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:30:14 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:30:14 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:30:15 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:30:18 DEBUG GoFilePage:63 - Text in the Button is Click here
+2020-08-11 03:31:08 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:31:08 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:31:08 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:31:08 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:31:08 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:31:09 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:31:12 DEBUG GoFilePage:63 - Text in the Button is Click here
+2020-08-11 03:31:58 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:31:58 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:31:58 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:31:58 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:31:58 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:31:59 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:32:02 DEBUG GoFilePage:63 - Text in the Button is Click here
+2020-08-11 03:32:42 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:32:42 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:32:42 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:32:42 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:32:42 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:32:43 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:32:46 DEBUG GoFilePage:63 - Text in the Button is Click here
+2020-08-11 03:33:22 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-11 03:33:22 DEBUG TestNgTestBase:35 - Base url is https://gofile.io/uploadFiles
+2020-08-11 03:33:22 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-11 03:33:22 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-11 03:33:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-11 03:33:23 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-11 03:33:26 DEBUG GoFilePage:63 - Text in the Button is Click here
+2020-08-13 01:03:45 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:03:45 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:03:45 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:03:45 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:03:45 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:03:48 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:13:39 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:13:39 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:13:39 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:13:39 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:13:39 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:13:40 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:16:22 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:16:22 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:16:22 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:16:22 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:16:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:16:23 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:34:14 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:34:14 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:34:14 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:34:14 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:34:14 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:34:16 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:34:22 DEBUG ShopCluesHomePage:69 - Tab Name is CDwindow-F66C867ECABE52EAE993B4D13C614A77
+2020-08-13 01:38:52 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:38:52 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:38:53 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:38:53 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:38:53 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:38:54 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:39:24 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:39:24 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:39:24 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:39:24 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:39:24 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:39:25 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:40:17 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:40:17 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:40:17 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:40:17 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:40:17 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:40:18 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:40:26 DEBUG ShopCluesHomePage:69 - Tab Name is CDwindow-96020D949CE50ADC413259DFA1D083BC  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 01:40:52 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:40:52 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:40:52 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:40:52 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:40:52 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:40:53 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:41:01 DEBUG ShopCluesHomePage:69 - Tab Name is CDwindow-88C62BE6D8EA0FCC53AD94C83BEF8166  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 01:41:33 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:41:33 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:41:33 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:41:33 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:41:33 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:41:34 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:41:44 DEBUG ShopCluesHomePage:69 - Tab Name is CDwindow-87A00699150C25DEA3D5F6BE7EDEDE9B  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 01:43:01 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 01:43:01 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 01:43:01 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 01:43:01 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 01:43:01 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 01:43:03 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 01:43:11 DEBUG ShopCluesHomePage:69 - Tab Name is CDwindow-597EF60609C217C5763968630150A9A3  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 02:01:34 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 02:01:34 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 02:01:34 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 02:01:34 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 02:01:34 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 02:01:35 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 02:01:43 DEBUG ShopCluesHomePage:74 - Tab Name is CDwindow-0F2D4BE6E2EB03F211FF91B3B0BADAB2  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:13:20 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:13:20 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:13:20 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:13:20 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:13:20 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:13:22 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:13:30 DEBUG Page:93 - Tab Name is CDwindow-4CF96AF73C9FCB0038189F377B8FA102  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:13:33 DEBUG Page:93 - Tab Name is CDwindow-28D0D5759B29153A0AB9F3A41DF4B501  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:15:48 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:15:48 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:15:48 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:15:48 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:15:48 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:15:50 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:15:58 DEBUG Page:93 - Tab Name is CDwindow-8AB10E96E665584B17F5E820A18167FD  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:16:00 DEBUG Page:93 - Tab Name is CDwindow-6CA4BA63B61B0BDEBC9CFB0D0B815FFE  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:18:42 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:18:42 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:18:42 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:18:42 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:18:42 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:18:43 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:18:51 DEBUG Page:93 - Tab Name is CDwindow-8E9F3FFD1D32DFCC9D91802A03BD5DD8  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:18:54 DEBUG Page:93 - Tab Name is CDwindow-9091B2A0CDE7214F5B2F0EBFF5321411  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:22:37 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:22:37 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:22:37 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:22:37 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:22:37 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:22:38 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:22:46 DEBUG Page:93 - Tab Name is CDwindow-9225E802B9781A95EE6CCE3F3FAEC5E9  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:22:49 DEBUG Page:93 - Tab Name is CDwindow-E0E77761E9489FEB4DB4C9959691183D  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:22:51 DEBUG ShopCluesProductDetail:45 - add to cart is ADD TO CART
+2020-08-13 04:24:23 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:24:23 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:24:23 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:24:23 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:24:23 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:24:24 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:24:32 DEBUG Page:93 - Tab Name is CDwindow-193A90BC9A3B5CCF65E0FE3A686CE43B  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:24:35 DEBUG Page:93 - Tab Name is CDwindow-004874B1BB97FD7EEC8FAB86497FD016  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:24:36 DEBUG ShopCluesProductDetail:45 - add to cart is ADD TO CART
+2020-08-13 04:28:00 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:28:00 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:28:00 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:28:00 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:28:00 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:28:01 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:28:09 DEBUG Page:93 - Tab Name is CDwindow-D74E3506D965E24D9048D6B7A9239F5D  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:28:12 DEBUG Page:93 - Tab Name is CDwindow-4C3563C733907F5DDB05D40810A22BC8  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:28:14 DEBUG ShopCluesProductDetail:39 - add to cart is ADD TO CART
+2020-08-13 04:28:16 DEBUG ShopCluesProductDetail:49 - Message is : Product added to cart
+2020-08-13 04:33:37 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: start-maximized, browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:33:37 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:33:37 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:33:37 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:33:37 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:33:38 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:33:47 DEBUG Page:93 - Tab Name is CDwindow-064D2632A51158481CA4B8D8289FFB7D  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:33:49 DEBUG Page:93 - Tab Name is CDwindow-215D1BBDABFE22A3537E98499FB4DE78  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:33:51 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 04:33:52 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 04:36:34 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:36:34 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:36:34 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:36:34 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:36:34 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:36:35 DEBUG TestNgTestBase:62 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:36:48 DEBUG Page:93 - Tab Name is CDwindow-66F9F5033FABC4AC0C111CECED65548A  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:36:51 DEBUG Page:93 - Tab Name is CDwindow-BA636737CC3378CEAB6318E1DEED4010  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:36:53 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 04:36:55 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 04:39:24 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 04:39:24 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 04:39:24 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 04:39:24 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 04:39:24 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 04:39:25 DEBUG TestNgTestBase:63 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 04:39:34 DEBUG Page:93 - Tab Name is CDwindow-3AEB4A4123CBBF29525D4A22E2DACC9E  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 04:39:36 DEBUG Page:93 - Tab Name is CDwindow-211A863EFB610427B5CAAC0A3C318C34  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 04:39:38 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 04:39:39 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 09:11:55 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 09:11:55 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 09:11:55 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 09:11:55 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 09:11:55 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 09:11:55 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-13 09:11:55 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 09:11:55 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is internet explorer
+2020-08-13 09:12:01 DEBUG TestNgTestBase:63 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 09:12:09 DEBUG Page:93 - Tab Name is CDwindow-8E93BB2067C36E5EA68876A787CA14BC  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 09:12:12 DEBUG Page:93 - Tab Name is CDwindow-C71F8008E6DA1AC63CBEE4C668FD130D  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 09:12:15 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 09:12:16 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 09:13:31 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 09:13:31 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 09:13:31 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 09:13:31 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-13 09:13:31 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 09:13:31 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-13 09:13:31 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 09:13:31 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is internet explorer
+2020-08-13 09:13:46 DEBUG TestNgTestBase:63 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-13 09:13:48 DEBUG TestNgTestBase:63 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-13 09:13:56 DEBUG Page:93 - Tab Name is CDwindow-66CEE4AAD68F448AB4CEAAF5628A19D9  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 09:13:59 DEBUG Page:93 - Tab Name is CDwindow-31CF3EA32873665EE458BE05FB8DD769  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 09:14:02 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 09:14:04 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 09:16:27 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 09:16:27 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 09:16:27 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 09:16:27 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 09:16:27 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 09:16:35 DEBUG TestNgTestBase:63 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-13 09:16:47 DEBUG Page:93 - Tab Name is CDwindow-63B6D7DC32B6A964DD668CAEFF2DB8C3  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 09:16:53 DEBUG Page:93 - Tab Name is CDwindow-B7FE9545DF5B1C04D5276DD15AC82B52  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 09:16:54 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 09:16:55 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 09:17:23 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 09:17:23 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 09:17:23 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-13 09:17:23 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 09:17:23 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is internet explorer
+2020-08-13 09:17:25 DEBUG TestNgTestBase:63 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-13 15:00:45 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:00:45 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:00:45 DEBUG TestNgTestBase:48 - Browser Name Passed ie
+2020-08-13 15:00:45 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:00:45 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is internet explorer
+2020-08-13 15:01:02 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-13 15:01:30 DEBUG Page:93 - Tab Name is 5b91b7f7-5bfa-42e2-84a9-d0efd4128821  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 15:02:10 DEBUG Page:93 - Tab Name is f8e04803-f5ef-4a27-bece-cba00f6f938b  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 15:02:34 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 15:07:38 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:07:38 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:07:38 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 15:07:38 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:07:38 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 15:07:38 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-13 15:07:38 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:07:38 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-13 15:07:42 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-13 15:07:48 DEBUG TestNgTestBase:64 - Grid URL is : null
+2020-08-13 15:07:58 DEBUG Page:93 - Tab Name is CDwindow-88CB7773D517883DFEB533B071E3A16E  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 15:08:01 DEBUG Page:93 - Tab Name is CDwindow-17548A8716EF815118B401A41260721B  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 15:08:03 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 15:08:05 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 15:20:25 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:20:25 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:20:25 DEBUG TestNgTestBase:48 - Browser Name Passed chrome
+2020-08-13 15:20:25 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:20:25 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is chrome
+2020-08-13 15:20:25 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-13 15:20:25 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:20:25 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-13 15:20:27 DEBUG TestNgTestBase:64 - Grid URL is : null
+2020-08-13 15:20:35 DEBUG Page:93 - Tab Name is CDwindow-BA586EC4BB6135E30314851A526E3BEF  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-13 15:20:38 DEBUG Page:93 - Tab Name is CDwindow-75308E42A728E89F5C74564FDA9CC77E  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 15:20:40 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 15:20:41 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 15:20:46 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-13 15:21:07 DEBUG Page:93 - Tab Name is 19  
+2020-08-13 15:21:31 DEBUG Page:93 - Tab Name is 21  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 15:21:32 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 15:21:35 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 15:22:50 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:22:50 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:22:50 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-13 15:22:50 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:22:50 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-13 15:22:54 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:4444/wd/hub
+2020-08-13 15:23:02 DEBUG Page:93 - Tab Name is 16  
+2020-08-13 15:23:05 DEBUG Page:93 - Tab Name is 18  
+2020-08-13 15:23:09 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 15:23:10 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 15:24:04 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:24:04 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:24:04 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-13 15:24:04 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:24:04 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-13 15:24:15 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-13 15:24:24 DEBUG Page:93 - Tab Name is 23  
+2020-08-13 15:24:39 DEBUG Page:93 - Tab Name is 25  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-13 15:24:39 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-13 15:24:42 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-13 15:25:31 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:25:31 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:25:31 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-13 15:25:31 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:25:31 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-13 15:25:36 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-13 15:27:29 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-13 15:27:29 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-13 15:27:29 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-13 15:27:29 DEBUG TestNgTestBase:49 - Node  Name Passed remote
+2020-08-13 15:27:29 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-13 15:27:34 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.25:5566/wd/hub
+2020-08-13 15:27:43 DEBUG Page:93 - Tab Name is 23  
+2020-08-13 15:27:49 DEBUG Page:93 - Tab Name is 25  

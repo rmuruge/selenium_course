@@ -1,0 +1,4 @@
+browserName=firefox
+nativeEvents=false
+headless=false
+webdriver.gecko.driver=/home/rmuruge/tools/webdrivers/geckodriver

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="35.206" tests="6" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/rmuruge/eclipse-workspace/auto.project.testng/target/test-classes:/home/rmuruge/eclipse-workspace/auto.project.testng/target/classes:/home/rmuruge/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/home/rmuruge/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/rmuruge/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/home/rmuruge/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/rmuruge/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/rmuruge/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/home/rmuruge/.m2/repository/ru/stqa/selenium/webdriver-factory/4.3/webdriver-factory-4.3.jar:/home/rmuruge/.m2/repository/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/home/rmuruge/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/home/rmuruge/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/rmuruge/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/home/rmuruge/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/rmuruge/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/rmuruge/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/rmuruge/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/rmuruge/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/rmuruge/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/home/rmuruge/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/home/rmuruge/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="application.properties" value="/application.properties"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/rmuruge/eclipse-workspace/auto.project.testng/target/surefire/surefirebooter11364516706784844458.jar /home/rmuruge/eclipse-workspace/auto.project.testng/target/surefire 2020-08-13T15-27-28_309-jvmRun1 surefire9931235283024174262tmp surefire_08450037493195553059tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/rmuruge/eclipse-workspace/auto.project.testng/target/test-classes:/home/rmuruge/eclipse-workspace/auto.project.testng/target/classes:/home/rmuruge/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/home/rmuruge/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/rmuruge/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/home/rmuruge/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/rmuruge/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/rmuruge/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:/home/rmuruge/.m2/repository/ru/stqa/selenium/webdriver-factory/4.3/webdriver-factory-4.3.jar:/home/rmuruge/.m2/repository/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/home/rmuruge/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/home/rmuruge/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/home/rmuruge/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/rmuruge/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/home/rmuruge/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/rmuruge/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/rmuruge/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/rmuruge/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/rmuruge/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/rmuruge/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/home/rmuruge/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/home/rmuruge/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/rmuruge"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/rmuruge/eclipse-workspace/auto.project.testng"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/rmuruge/eclipse-workspace/auto.project.testng/target/surefire/surefirebooter11364516706784844458.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.8+10-post-Ubuntu-0ubuntu120.04"/>
+    <property name="user.name" value="rmuruge"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.4.0-42-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/rmuruge/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="user.dir" value="/home/rmuruge/eclipse-workspace/auto.project.testng"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="java.vm.version" value="11.0.8+10-post-Ubuntu-0ubuntu120.04"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testCloseNotification" classname="testng.auto.project.testng.POMAssignmentIX" time="8.3"/>
+  <testcase name="testHoverHomeKitchenNav1" classname="testng.auto.project.testng.POMAssignmentIX" time="0.175"/>
+  <testcase name="testClickCurtainNav2" classname="testng.auto.project.testng.POMAssignmentIX" time="4.841"/>
+  <testcase name="testClickProductImage" classname="testng.auto.project.testng.POMAssignmentIX" time="1.619"/>
+  <testcase name="testClickAddToCart" classname="testng.auto.project.testng.POMAssignmentIX" time="5.642">
+    <failure message="Expected condition failed: waiting for element to be clickable: [[RemoteWebDriver: firefox on WINDOWS (778101c4-7490-475b-b3c4-ffad70ff5cab)] -&gt; xpath: //button[contains(@id,&apos;add_cart&apos;)]] (tried for 5 second(s) with 500 milliseconds interval)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;autodev&apos;, ip: &apos;127.0.1.1&apos;, os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;5.4.0-42-generic&apos;, java.version: &apos;11.0.8&apos;&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 6012, moz:profile: C:\Users\rmuru\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 778101c4-7490-475b-b3c4-ffa...}&#10;Session ID: 778101c4-7490-475b-b3c4-ffad70ff5cab" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: [[RemoteWebDriver: firefox on WINDOWS (778101c4-7490-475b-b3c4-ffad70ff5cab)] -> xpath: //button[contains(@id,'add_cart')]] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'autodev', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-42-generic', java.version: '11.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 6012, moz:profile: C:\Users\rmuru\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 778101c4-7490-475b-b3c4-ffa...}
+Session ID: 778101c4-7490-475b-b3c4-ffad70ff5cab
+	at testng.auto.project.testng.POMAssignmentIX.testClickAddToCart(POMAssignmentIX.java:58)
+</failure>
+  </testcase>
+  <testcase name="testConfirmAddToCart" classname="testng.auto.project.testng.POMAssignmentIX" time="5.235">
+    <failure message="Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator &apos;By.xpath: //div[@id=&apos;snackbar&apos; and @class=&apos;show&apos;]&apos; (tried for 5 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='snackbar' and @class='show']' (tried for 5 second(s) with 500 milliseconds interval)
+	at testng.auto.project.testng.POMAssignmentIX.testConfirmAddToCart(POMAssignmentIX.java:63)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: //div[@id='snackbar' and @class='show']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'autodev', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-42-generic', java.version: '11.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 6012, moz:profile: C:\Users\rmuru\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 778101c4-7490-475b-b3c4-ffa...}
+Session ID: 778101c4-7490-475b-b3c4-ffad70ff5cab
+*** Element info: {Using=xpath, value=//div[@id='snackbar' and @class='show']}
+	at testng.auto.project.testng.POMAssignmentIX.testConfirmAddToCart(POMAssignmentIX.java:63)
+</failure>
+  </testcase>
+</testsuite>

@@ -1,0 +1,147 @@
+# Created at 2020-08-09T19:58:32.207
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2020-08-09T19:58:36.115
+Unexpected IOException with stream: Aug 09, 2020 7:58:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2020-08-09T19:58:36.169
+Unexpected IOException with stream: 2020-08-09 19:58:36 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+
+
+# Created at 2020-08-09T19:58:36.282
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:37.473
+Unexpected IOException with stream: Aug 09, 2020 7:58:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2020-08-09T19:58:37.493
+Unexpected IOException with stream: 2020-08-09 19:58:37 DEBUG TestNgTestBase:65 - Grid URL is : http://192.168.1.247:5566/wd/hub
+
+
+# Created at 2020-08-09T19:58:37.495
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:37.554
+Unexpected IOException: 8,1,testng.auto.project.testng.AssignmentVParallelTest,initWebDriver(testng.auto.project.testng.AssignmentVParallelTest),null,Unable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds,null,Unable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds,AssignmentVParallelTest>TestNgTestBase.initWebDriver:64 \00BB SessionNotCreated Un...,org.openqa.selenium.SessionNotCreatedException: \000AUnable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000AUnable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: unknown\000A
+
+
+# Created at 2020-08-09T19:58:37.563
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:37.563
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:37.564
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),null,Unable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds,null
+
+
+# Created at 2020-08-09T19:58:37.569
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:37.570
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:37.570
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),null,Unable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds,null
+
+
+# Created at 2020-08-09T19:58:37.570
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:37.571
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:37.571
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),null,Unable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds,null
+
+
+# Created at 2020-08-09T19:58:37.579
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:37.580
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:37.580
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),null,Unable to create session from {\000A  "desiredCapabilities": {\000A    "browserName": "ie"\002C\000A    "requireWindowFocus": true\000A  }\002C\000A  "capabilities": {\000A    "firstMatch": [\000A      {\000A        "browserName": "ie"\000A      }\000A    ]\000A  }\000A}\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:25:53'\000ASystem info: host: 'DESKTOP-6D0EPTO'\002C ip: '192.168.1.25'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '14.0.2'\000ADriver info: driver.version: unknown\000ACommand duration or timeout: 25 milliseconds,null
+
+
+# Created at 2020-08-09T19:58:39.317
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:39.318
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:39.757
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:39.764
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:40.083
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:40.084
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:40.386
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:40.387
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:40.446
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:40.447
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:40.691
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:40.788
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:40.790
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:58:41.129
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:58:48.908
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

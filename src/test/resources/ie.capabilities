@@ -1,0 +1,6 @@
+browserName=internet explorer
+requireWindowFocus=true
+accpetSslCert=true
+#webdriver.internetexplorer.driver=C:\\Users\\rmuru\\tools\\IEDriverServer.exe
+#webdriver.ie.driver=C:\\Users\\rmuru\\tools\\IEDriverServer.exe
+#webdriver.ie.driver=/home/rmuruge/tools/webdrivers/IEDriverServer.exe

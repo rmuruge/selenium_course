@@ -1,0 +1,195 @@
+# Created at 2020-08-09T18:59:51.068
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2020-08-09T18:59:51.585
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {browserName: chrome, headless: true, start-maximized: true}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {browserName: ie, requireWindowFocus: true}}
+
+
+# Created at 2020-08-09T18:59:51.586
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:36 - Base url is https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes
+
+
+# Created at 2020-08-09T18:59:51.627
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:49 - Browser Name Passed chrome
+
+
+# Created at 2020-08-09T18:59:51.628
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:50 - Node  Name Passed local
+
+
+# Created at 2020-08-09T18:59:51.628
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is chrome
+
+
+# Created at 2020-08-09T18:59:51.629
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+
+
+# Created at 2020-08-09T18:59:51.629
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:49 - Browser Name Passed ie
+
+
+# Created at 2020-08-09T18:59:51.630
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:50 - Node  Name Passed remote
+
+
+# Created at 2020-08-09T18:59:51.630
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is ie
+
+
+# Created at 2020-08-09T18:59:51.631
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:49 - Browser Name Passed firefox
+
+
+# Created at 2020-08-09T18:59:51.631
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:50 - Node  Name Passed local
+
+
+# Created at 2020-08-09T18:59:51.632
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:52 - Broswer in Capabilities  is firefox
+
+
+# Created at 2020-08-09T18:59:51.632
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.247:5566/wd/hub
+
+
+# Created at 2020-08-09T18:59:51.633
+Unexpected IOException with stream: 2020-08-09 18:59:51 DEBUG TestNgTestBase:61 - Grid URL is : http://192.168.1.25:5566/wd/hub
+
+
+# Created at 2020-08-09T18:59:52.374
+Unexpected IOException: 8,1,testng.auto.project.testng.AssignmentVParallelTest,initWebDriver(testng.auto.project.testng.AssignmentVParallelTest),null,Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver,null,Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver,AssignmentVParallelTest>TestNgTestBase.initWebDriver:62 \00BB UnreachableBrowser C...,org.openqa.selenium.remote.UnreachableBrowserException: \000ACould not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver\000ACaused by: java.net.ConnectException: Failed to connect to /192.168.1.25:5566\000ACaused by: java.net.ConnectException: Connection refused (Connection refused)\000A
+
+
+# Created at 2020-08-09T18:59:52.405
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:52.408
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:52.409
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),null,Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2020-08-09T18:59:52.411
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:52.411
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:52.412
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),null,Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2020-08-09T18:59:52.415
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:52.416
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:52.417
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),null,Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2020-08-09T18:59:52.422
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,initPageObjects(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:52.422
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:52.423
+Unexpected IOException: 9,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),null,Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'autodev'\002C ip: '127.0.1.1'\002C os.name: 'Linux'\002C os.arch: 'amd64'\002C os.version: '5.4.0-42-generic'\002C java.version: '11.0.8'\000ADriver info: driver.version: RemoteWebDriver,null
+
+
+# Created at 2020-08-09T18:59:56.096
+Unexpected IOException with stream: Aug 09, 2020 6:59:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2020-08-09T18:59:56.151
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:57.057
+Unexpected IOException with stream: Aug 09, 2020 6:59:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2020-08-09T18:59:57.061
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:59.054
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:59.067
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:59.225
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testObserver3Dropdowns(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:59.226
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T18:59:59.737
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T18:59:59.739
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:00:00.197
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:00:00.198
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:00:00.237
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectCountry(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:00:00.238
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:00:00.553
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:00:00.592
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testSelectRegion(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:00:00.593
+Unexpected IOException: 5,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),testng.auto.project.testng.AssignmentVParallelTest,null,null
+
+
+# Created at 2020-08-09T19:00:00.924
+Unexpected IOException: 6,1,testng.auto.project.testng.AssignmentVParallelTest,testCityName(testng.auto.project.testng.AssignmentVParallelTest),null,null,null
+
+
+# Created at 2020-08-09T19:00:04.705
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
