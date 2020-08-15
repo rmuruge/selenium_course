@@ -134,8 +134,9 @@
         <!--
         <site.url>https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes</site.url> 
          
-        <site.url>https://gofile.io/uploadFiles</site.url> -->
-        <site.url>https://www.shopclues.com</site.url>
+        <site.url>https://gofile.io/uploadFiles</site.url> 
+        <site.url>https://www.shopclues.com</site.url> -->
+         <site.url>https://www.bravenet.com/login</site.url>
         
       </properties>
       <activation>

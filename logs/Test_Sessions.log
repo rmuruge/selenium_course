@@ -1308,3 +1308,89 @@
 2020-08-13 15:27:34 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.25:5566/wd/hub
 2020-08-13 15:27:43 DEBUG Page:93 - Tab Name is 23  
 2020-08-13 15:27:49 DEBUG Page:93 - Tab Name is 25  
+2020-08-15 02:29:50 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 02:29:50 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-15 02:29:50 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 02:29:50 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 02:29:50 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 02:29:54 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 02:30:02 DEBUG Page:93 - Tab Name is 16  Curtains: Buy Designer Curtains Online in India at Best Prices
+2020-08-15 02:30:06 DEBUG Page:93 - Tab Name is 18  Buy Cloud India 7 Ft Door Supremo Curtains Set of 3 Piece Polyster Living Room Bed Room Curtains With Attractive Color Online - Get 15% Off
+2020-08-15 02:30:11 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-15 02:30:13 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-15 12:12:21 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 12:12:21 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-15 12:12:21 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 12:12:21 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 12:12:21 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 12:12:25 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 12:12:34 DEBUG Page:96 - Tab Name is 16  
+2020-08-15 12:12:37 DEBUG Page:96 - Tab Name is 18  
+2020-08-15 12:12:41 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-15 12:12:42 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-15 12:37:57 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 12:37:57 DEBUG TestNgTestBase:35 - Base url is https://www.shopclues.com
+2020-08-15 12:37:57 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 12:37:57 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 12:37:57 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 12:38:01 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 12:38:08 DEBUG Page:96 - Tab Name is 16  
+2020-08-15 12:38:12 DEBUG Page:96 - Tab Name is 18  
+2020-08-15 12:38:15 DEBUG ShopCluesProductDetail:36 - add to cart is ADD TO CART
+2020-08-15 12:38:16 DEBUG ShopCluesProductDetail:46 - Message is : Product added to cart
+2020-08-15 15:13:22 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:13:22 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:13:22 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:13:22 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:13:22 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:13:26 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:16:46 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:16:46 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:16:46 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:16:46 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:16:46 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:16:50 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:17:32 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:17:32 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:17:32 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:17:32 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:17:32 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:17:36 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:20:33 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:20:33 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:20:33 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:20:33 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:20:33 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:20:37 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:20:40 DEBUG AssignmentXDDYaml:56 - User Name 0 null
+2020-08-15 15:20:59 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:20:59 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:20:59 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:20:59 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:20:59 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:21:03 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:21:09 DEBUG AssignmentXDDYaml:56 - User Name 1 abc@gmail.com
+2020-08-15 15:24:47 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:24:47 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:24:47 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:24:47 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:24:47 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:24:51 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:24:53 DEBUG AssignmentXDDYaml:56 - User Name 1 abc@gmail.com
+2020-08-15 15:24:54 DEBUG AssignmentXDDYaml:56 - User Name 2 abc@gmail.com
+2020-08-15 15:24:54 DEBUG AssignmentXDDYaml:56 - User Name 3 abc@gmail.com
+2020-08-15 15:24:55 DEBUG AssignmentXDDYaml:56 - User Name 4 abc@gmail.com
+2020-08-15 15:24:55 DEBUG AssignmentXDDYaml:56 - User Name 5 abc@gmail.com
+2020-08-15 15:24:56 DEBUG AssignmentXDDYaml:56 - User Name 6 null
+2020-08-15 15:29:26 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:29:26 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:29:26 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:29:26 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:29:26 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:29:30 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
+2020-08-15 15:32:08 DEBUG SuiteConfiguration:64 - Capability Map is : {chrome=Capabilities {args: ['start-maximized'], browserName: chrome}, firefox=Capabilities {browserName: firefox, headless: false, nativeEvents: false}, ie=Capabilities {accpetSslCert: true, browserName: internet explorer, requireWindowFocus: true}}
+2020-08-15 15:32:08 DEBUG TestNgTestBase:35 - Base url is https://www.bravenet.com/login
+2020-08-15 15:32:08 DEBUG TestNgTestBase:48 - Browser Name Passed firefox
+2020-08-15 15:32:08 DEBUG TestNgTestBase:49 - Node  Name Passed local
+2020-08-15 15:32:08 DEBUG TestNgTestBase:51 - Broswer in Capabilities  is firefox
+2020-08-15 15:32:12 DEBUG TestNgTestBase:64 - Grid URL is : http://192.168.1.247:5566/wd/hub
