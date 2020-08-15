@@ -6,11 +6,9 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import testng.auto.project.testng.POMAssignmentIX;
 import testng.auto.project.testng.utils.PageWaits;
 
 /**
@@ -42,11 +40,17 @@ public abstract class Page {
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			break;
 		case EXPLICIT:
-			WebDriverWait wWait = new WebDriverWait(driver, 5);
-			return wWait;		
-		case FLUENT: 
+			return new WebDriverWait(driver, 5);
+		case FLUENT:
+			log.debug("FLUENT wait is not implemented in waitForElement method");
 			break;
 		case THREAD:
+
+			try {
+				Thread.sleep(5000);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
 			break;
 		default:
 
@@ -89,9 +93,6 @@ public abstract class Page {
 	public void switchTab (int i) {
 		ArrayList <String> tab = new ArrayList <String> (driver.getWindowHandles());
 		driver.switchTo().window(tab.get(i));
-		
 		log.debug("Tab Name is " + tab.get(i) + "  " + driver.getTitle());
-		
-		
 	}
 }
