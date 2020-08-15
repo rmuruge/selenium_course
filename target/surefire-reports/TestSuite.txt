@@ -1,28 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 35.206 s <<< FAILURE! - in TestSuite
-testClickAddToCart(testng.auto.project.testng.POMAssignmentIX)  Time elapsed: 5.642 s  <<< FAILURE!
-org.openqa.selenium.TimeoutException: 
-Expected condition failed: waiting for element to be clickable: [[RemoteWebDriver: firefox on WINDOWS (778101c4-7490-475b-b3c4-ffad70ff5cab)] -> xpath: //button[contains(@id,'add_cart')]] (tried for 5 second(s) with 500 milliseconds interval)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'autodev', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-42-generic', java.version: '11.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 6012, moz:profile: C:\Users\rmuru\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 778101c4-7490-475b-b3c4-ffa...}
-Session ID: 778101c4-7490-475b-b3c4-ffad70ff5cab
-	at testng.auto.project.testng.POMAssignmentIX.testClickAddToCart(POMAssignmentIX.java:58)
-
-testConfirmAddToCart(testng.auto.project.testng.POMAssignmentIX)  Time elapsed: 5.235 s  <<< FAILURE!
-org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='snackbar' and @class='show']' (tried for 5 second(s) with 500 milliseconds interval)
-	at testng.auto.project.testng.POMAssignmentIX.testConfirmAddToCart(POMAssignmentIX.java:63)
-Caused by: org.openqa.selenium.NoSuchElementException: 
-Unable to locate element: //div[@id='snackbar' and @class='show']
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'autodev', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-42-generic', java.version: '11.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 79.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200720193547, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 6012, moz:profile: C:\Users\rmuru\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 778101c4-7490-475b-b3c4-ffa...}
-Session ID: 778101c4-7490-475b-b3c4-ffad70ff5cab
-*** Element info: {Using=xpath, value=//div[@id='snackbar' and @class='show']}
-	at testng.auto.project.testng.POMAssignmentIX.testConfirmAddToCart(POMAssignmentIX.java:63)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.38 s - in TestSuite
