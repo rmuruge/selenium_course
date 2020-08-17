@@ -60,7 +60,9 @@
         <version>2.22.2</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+            <suiteXmlFile>src/test/resources/testng-assignmentXI.xml</suiteXmlFile>
+ <!--            <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+            <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>  -->
           </suiteXmlFiles>
           <systemPropertyVariables>
             <application.properties>/application.properties</application.properties>
@@ -135,8 +137,9 @@
         <site.url>https://www.geodatasource.com/software/world-major-cities-drop-down-list-source-codes</site.url> 
          
         <site.url>https://gofile.io/uploadFiles</site.url> 
-        <site.url>https://www.shopclues.com</site.url> -->
          <site.url>https://www.bravenet.com/login</site.url>
+       -->
+         <site.url>https://www.shopclues.com</site.url> 
         
       </properties>
       <activation>

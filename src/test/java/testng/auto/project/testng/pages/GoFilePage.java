@@ -9,13 +9,13 @@ import java.awt.event.KeyEvent;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
+
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-import testng.auto.project.testng.utils.PageWaits.WAITS;
+import testng.auto.project.testng.utils.Enumerations.WAITS;
 
 public class GoFilePage extends Page {
 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Assignments" thread-count="4" verbose="5" parallel="tests">
+    <parameter name="browserName" value="chrome"/>
+  	<parameter name="node" value="local" />
+  <test name="Assignment9">
+  	<!-- Parameters for Test Data -->
+  	<parameter name="delimit" value=">" />
+  	<parameter name="Nav-Range" value="4" />
+  	<parameter name="Product-Range" value="1" />
+  	<parameter name="fNav1" value="Home &amp; Kitchen" />
+  	<parameter name="fNav2" value="Daily Essentials" />
+  	<parameter name="fNav3" value="Mobiles &amp; Electronics" />
+  	<parameter name="fNav4" value="Kids" />
+  	<parameter name="fNav1sNav1-" value="Curtains" />
+  	<parameter name="fNav2sNav1" value="Coffee &amp; Tea" />
+  	<parameter name="fNav3sNav1" value="Cables" />
+  	<parameter name="fNav4sNav1" value="Games &amp; Puzzles" />
+  	<parameter name="scenario1" value="Home &amp; Kitchen > Curtains > 1"/>
+  	<parameter name="scenario2" value="Daily Essentials > Coffee &amp; Tea > 1"/>
+  	<parameter name="scenario3" value="Mobiles &amp; Electronics > Cables > 1"/>
+  	<parameter name="scenario4" value="Kids > Games &amp; Puzzles > 1"/>
+  	
+  	<parameter name="runScenarios" value="scenario1,scenario2,scenario3" />
+    <classes>
+      <class name="testng.auto.project.testng.AssignmentXIDDXML"/>
+    </classes>
+  </test>
+ 
+ </suite>

@@ -1,6 +1,5 @@
-package testng.auto.project.testng.pages;
+package testng.auto.project.testng.pages.nav2;
 
-import java.util.Iterator;
 import java.util.List;
 
 import org.apache.log4j.Logger;
@@ -10,17 +9,18 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-import testng.auto.project.testng.utils.PageWaits.WAITS;
-import testng.auto.project.testng.utils.PageWaits.WAIT_ACTION;
+import testng.auto.project.testng.pages.Page;
+import testng.auto.project.testng.utils.Enumerations.WAITS;
+import testng.auto.project.testng.utils.Enumerations.WAIT_ACTION;
 
-public class ShopCluesHomeFurnishingCurtains extends Page {
+public class ShopCluesCablesPage extends Page {
 
-	public ShopCluesHomeFurnishingCurtains(WebDriver d) {
+	public ShopCluesCablesPage(WebDriver d) {
 		super(d);
 		// TODO Auto-generated constructor stub
 	}
 	
-	static Logger log = Logger.getLogger(ShopCluesHomeFurnishingCurtains.class);
+	static Logger log = Logger.getLogger(ShopCluesCablesPage.class);
 
 	
 	@FindBy(how = How.XPATH, using = "//img[contains(@id,'det_img')]")
@@ -43,5 +43,5 @@ public class ShopCluesHomeFurnishingCurtains extends Page {
 
 		return ret; 
 	}
-	
+
 }

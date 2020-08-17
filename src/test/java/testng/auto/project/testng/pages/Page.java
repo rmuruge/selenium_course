@@ -1,15 +1,23 @@
 package testng.auto.project.testng.pages;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.By.ById;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import testng.auto.project.testng.utils.PageWaits;
+import testng.auto.project.testng.utils.Enumerations;
+import testng.auto.project.testng.utils.Enumerations.WAITS;
+import testng.auto.project.testng.utils.Enumerations.WAIT_ACTION;
 
 /**
  * Abstract class representation of a Page in the UI. Page object pattern
@@ -18,6 +26,9 @@ public abstract class Page {
 
   protected static WebDriver driver;
 
+
+	@FindBy(how = How.XPATH, using = "//div[@class='breadcrums']/ul")
+	public WebElement breadCrums;
   /*
    * Constructor injecting the WebDriver interface
    * 
@@ -32,7 +43,7 @@ public abstract class Page {
     return driver.getTitle();
   }
   
-  public static WebDriverWait waitForElement (PageWaits.WAITS wait) {
+  public static WebDriverWait waitForElement (Enumerations.WAITS wait) {
 
 		switch(wait) {
 
@@ -58,7 +69,7 @@ public abstract class Page {
 		return null;
 	}
 
-  public static WebElement waitForElement (PageWaits.WAITS wait, PageWaits.WAIT_ACTION action, WebElement element) {
+  public static WebElement waitForElement (Enumerations.WAITS wait, Enumerations.WAIT_ACTION action, WebElement element) {
 
 		switch(wait) {
 
@@ -94,5 +105,38 @@ public abstract class Page {
 		ArrayList <String> tab = new ArrayList <String> (driver.getWindowHandles());
 		driver.switchTo().window(tab.get(i));
 		log.debug("Tab Name is " + tab.get(i) + "  " + driver.getTitle());
+	}
+	
+	public WebElement getWebElement(String element, Enumerations.FINDBY findby) {
+		WebElement webElement;
+		switch (findby) {
+		case XPATH:
+			webElement = waitForElement(WAITS.EXPLICIT, WAIT_ACTION.VISIBLE,
+					driver.findElement(By.xpath(element)));
+			break;
+		case ID:
+			webElement = waitForElement(WAITS.EXPLICIT, WAIT_ACTION.VISIBLE,
+					driver.findElement(By.id(element)));
+			break;
+		case LINK:
+			webElement = waitForElement(WAITS.EXPLICIT, WAIT_ACTION.VISIBLE,
+					driver.findElement(By.linkText(element)));
+			break;
+		case CSS:
+			webElement = waitForElement(WAITS.EXPLICIT, WAIT_ACTION.VISIBLE,
+					driver.findElement(By.cssSelector(element)));
+			break;
+		default:
+			webElement = waitForElement(WAITS.EXPLICIT, WAIT_ACTION.VISIBLE,
+					driver.findElement(By.name(element)));
+		}
+		return webElement;
+	}
+	
+	public String getBreadCrums () {
+		waitForElement(WAITS.EXPLICIT, WAIT_ACTION.VISIBLE,breadCrums);
+		List <WebElement> crums = breadCrums.findElements(By.tagName("li"));
+		log.debug("Crums Size is " + crums.size());
+		return crums.get(crums.size()-1).getText();
 	}
 }

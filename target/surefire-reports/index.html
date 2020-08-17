@@ -49,7 +49,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Assignments" class="navigator-link ">
-                    <span>testng.xml</span>
+                    <span>testng-assignmentXI.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-Assignments">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Assignments" title="testng.auto.project.testng.AssignmentXDDYaml" class="method navigator-link" hash-for-method="testInvalidLogin">testInvalidLogin</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Assignments" title="testng.auto.project.testng.AssignmentXIDDXML" class="method navigator-link" hash-for-method="runScenarios">runScenarios</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Assignments -->
@@ -120,14 +120,14 @@
           <div class="suite-Assignments-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">testng.auto.project.testng.AssignmentXDDYaml</span>
+              <span class="class-name">testng.auto.project.testng.AssignmentXIDDXML</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testInvalidLogin">
-                  </a> <!-- testInvalidLogin -->
-                  <span class="method-name">testInvalidLogin</span>
+                  <a name="runScenarios">
+                  </a> <!-- runScenarios -->
+                  <span class="method-name">runScenarios</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -135,18 +135,34 @@
         </div> <!-- panel Assignments -->
         <div panel-name="test-xml-Assignments" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">/home/rmuruge/eclipse-workspace/auto.project.testng/src/test/resources/testng.xml</span>
+            <span class="header-content">/home/rmuruge/eclipse-workspace/auto.project.testng/src/test/resources/testng-assignmentXI.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;Assignments&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
+  &lt;parameter name=&quot;node&quot; value=&quot;local&quot;/&gt;
+  &lt;parameter name=&quot;browserName&quot; value=&quot;chrome&quot;/&gt;
   &lt;test thread-count=&quot;4&quot; parallel=&quot;tests&quot; name=&quot;Assignment9&quot; verbose=&quot;0&quot;&gt;
-    &lt;parameter name=&quot;node&quot; value=&quot;local&quot;/&gt;
-    &lt;parameter name=&quot;browserName&quot; value=&quot;firefox&quot;/&gt;
+    &lt;parameter name=&quot;fNav1sNav1-&quot; value=&quot;Curtains&quot;/&gt;
+    &lt;parameter name=&quot;fNav3sNav1&quot; value=&quot;Cables&quot;/&gt;
+    &lt;parameter name=&quot;fNav4sNav1&quot; value=&quot;Games &amp;amp; Puzzles&quot;/&gt;
+    &lt;parameter name=&quot;scenario1&quot; value=&quot;Home &amp;amp; Kitchen &amp;gt; Curtains &amp;gt; 1&quot;/&gt;
+    &lt;parameter name=&quot;scenario2&quot; value=&quot;Daily Essentials &amp;gt; Coffee &amp;amp; Tea &amp;gt; 1&quot;/&gt;
+    &lt;parameter name=&quot;scenario3&quot; value=&quot;Mobiles &amp;amp; Electronics &amp;gt; Cables &amp;gt; 1&quot;/&gt;
+    &lt;parameter name=&quot;scenario4&quot; value=&quot;Kids &amp;gt; Games &amp;amp; Puzzles &amp;gt; 1&quot;/&gt;
+    &lt;parameter name=&quot;Product-Range&quot; value=&quot;1&quot;/&gt;
+    &lt;parameter name=&quot;delimit&quot; value=&quot;&amp;gt;&quot;/&gt;
+    &lt;parameter name=&quot;runScenarios&quot; value=&quot;scenario1,scenario2,scenario3&quot;/&gt;
+    &lt;parameter name=&quot;fNav3&quot; value=&quot;Mobiles &amp;amp; Electronics&quot;/&gt;
+    &lt;parameter name=&quot;Nav-Range&quot; value=&quot;4&quot;/&gt;
+    &lt;parameter name=&quot;fNav4&quot; value=&quot;Kids&quot;/&gt;
+    &lt;parameter name=&quot;fNav1&quot; value=&quot;Home &amp;amp; Kitchen&quot;/&gt;
+    &lt;parameter name=&quot;fNav2sNav1&quot; value=&quot;Coffee &amp;amp; Tea&quot;/&gt;
+    &lt;parameter name=&quot;fNav2&quot; value=&quot;Daily Essentials&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;testng.auto.project.testng.AssignmentXDDYaml&quot;/&gt;
+      &lt;class name=&quot;testng.auto.project.testng.AssignmentXIDDXML&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Assignment9 --&gt;
 &lt;/suite&gt; &lt;!-- Assignments --&gt;
@@ -188,14 +204,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'testInvalidLogin')
-data.setCell(0, 2, 'testng.auto.project.testng.AssignmentXDDYaml')
-data.setCell(0, 3, 6924);
+data.setCell(0, 1, 'runScenarios')
+data.setCell(0, 2, 'testng.auto.project.testng.AssignmentXIDDXML')
+data.setCell(0, 3, 35225);
 window.suiteTableData['Assignments']= { tableData: data, tableDiv: 'times-div-Assignments'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 11 seconds</span>
+              <span class="suite-total-time">Total running time: 36 seconds</span>
               <div id="times-div-Assignments">
               </div> <!-- times-div-Assignments -->
             </div> <!-- times-div -->
@@ -221,26 +237,30 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">testng.auto.project.testng.AssignmentXDDYaml</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testng.auto.project.testng.AssignmentXIDDXML</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">initTestSuite</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-test before">
-                <span class="method-name">initWebDriver(firefox, local)</span>
-                <span class="method-start">27 ms</span>
+                <span class="method-name">initWebDriver(chrome, local)</span>
+                <span class="method-start">62 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="configuration-test before">
+                <span class="method-name">initTestData</span>
+                <span class="method-start">1330 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">initPageObjects</span>
-                <span class="method-start">4150 ms</span>
+                <span class="method-start">1345 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">testInvalidLogin</span>
-                <span class="method-start">4345 ms</span>
+                <span class="method-name">runScenarios</span>
+                <span class="method-start">1464 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-suite after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">11290 ms</span>
+                <span class="method-start">36758 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

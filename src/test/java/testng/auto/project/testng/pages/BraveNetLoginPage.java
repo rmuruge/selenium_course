@@ -5,8 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import testng.auto.project.testng.utils.PageWaits.WAITS;
-import testng.auto.project.testng.utils.PageWaits.WAIT_ACTION;
+import testng.auto.project.testng.utils.Enumerations.WAITS;
+import testng.auto.project.testng.utils.Enumerations.WAIT_ACTION;
 
 public class BraveNetLoginPage extends Page {
 	

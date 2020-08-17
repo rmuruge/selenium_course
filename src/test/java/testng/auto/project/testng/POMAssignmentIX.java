@@ -8,9 +8,9 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import testng.auto.project.testng.pages.ShopCluesHomeFurnishingCurtains;
 import testng.auto.project.testng.pages.ShopCluesHomePage;
-import testng.auto.project.testng.pages.ShopCluesProductDetail;
+import testng.auto.project.testng.pages.nav2.ShopCluesHomeFurnishingCurtains;
+import testng.auto.project.testng.pages.nav3.ShopCluesProductDetail;
 
 public class POMAssignmentIX extends TestNgTestBase {
 

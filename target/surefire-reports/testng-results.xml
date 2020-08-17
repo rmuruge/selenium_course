@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-15T15:32:08 CDT" name="Assignments" finished-at="2020-08-15T15:32:19 CDT" duration-ms="11247">
+  <suite started-at="2020-08-17T03:17:08 CDT" name="Assignments" finished-at="2020-08-17T03:17:45 CDT" duration-ms="36634">
     <groups>
     </groups>
-    <test started-at="2020-08-15T15:32:08 CDT" name="Assignment9" finished-at="2020-08-15T15:32:19 CDT" duration-ms="11247">
-      <class name="testng.auto.project.testng.AssignmentXDDYaml">
-        <test-method is-config="true" signature="initTestSuite()[pri:0, instance:testng.auto.project.testng.AssignmentXDDYaml@2f177a4b]" started-at="2020-08-15T15:32:08 CDT" name="initTestSuite" finished-at="2020-08-15T15:32:08 CDT" duration-ms="25" status="PASS">
+    <test started-at="2020-08-17T03:17:08 CDT" name="Assignment9" finished-at="2020-08-17T03:17:45 CDT" duration-ms="36634">
+      <class name="testng.auto.project.testng.AssignmentXIDDXML">
+        <test-method is-config="true" signature="initTestSuite()[pri:0, instance:testng.auto.project.testng.AssignmentXIDDXML@77167fb7]" started-at="2020-08-17T03:17:08 CDT" name="initTestSuite" finished-at="2020-08-17T03:17:08 CDT" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initTestSuite -->
-        <test-method is-config="true" signature="initWebDriver(java.lang.String, java.lang.String)[pri:0, instance:testng.auto.project.testng.AssignmentXDDYaml@2f177a4b]" started-at="2020-08-15T15:32:08 CDT" name="initWebDriver" finished-at="2020-08-15T15:32:12 CDT" duration-ms="4108" status="PASS">
+        <test-method is-config="true" signature="initWebDriver(java.lang.String, java.lang.String)[pri:0, instance:testng.auto.project.testng.AssignmentXIDDXML@77167fb7]" started-at="2020-08-17T03:17:08 CDT" name="initWebDriver" finished-at="2020-08-17T03:17:10 CDT" duration-ms="1268" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="1">
@@ -27,19 +27,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initWebDriver -->
-        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:testng.auto.project.testng.AssignmentXDDYaml@2f177a4b]" started-at="2020-08-15T15:32:12 CDT" name="initPageObjects" finished-at="2020-08-15T15:32:12 CDT" duration-ms="183" status="PASS">
+        <test-method is-config="true" signature="initTestData()[pri:0, instance:testng.auto.project.testng.AssignmentXIDDXML@77167fb7]" started-at="2020-08-17T03:17:10 CDT" name="initTestData" finished-at="2020-08-17T03:17:10 CDT" depends-on-methods="testng.auto.project.testng.TestNgTestBase.initWebDriver" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestData -->
+        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:testng.auto.project.testng.AssignmentXIDDXML@77167fb7]" started-at="2020-08-17T03:17:10 CDT" name="initPageObjects" finished-at="2020-08-17T03:17:10 CDT" duration-ms="100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initPageObjects -->
-        <test-method signature="testInvalidLogin()[pri:0, instance:testng.auto.project.testng.AssignmentXDDYaml@2f177a4b]" started-at="2020-08-15T15:32:12 CDT" name="testInvalidLogin" finished-at="2020-08-15T15:32:19 CDT" duration-ms="6924" status="PASS">
+        <test-method signature="runScenarios()[pri:0, instance:testng.auto.project.testng.AssignmentXIDDXML@77167fb7]" started-at="2020-08-17T03:17:10 CDT" name="runScenarios" finished-at="2020-08-17T03:17:45 CDT" duration-ms="35225" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testInvalidLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.auto.project.testng.AssignmentXDDYaml@2f177a4b]" started-at="2020-08-15T15:32:19 CDT" name="tearDown" finished-at="2020-08-15T15:32:27 CDT" duration-ms="7535" status="PASS">
+        </test-method> <!-- runScenarios -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.auto.project.testng.AssignmentXIDDXML@77167fb7]" started-at="2020-08-17T03:17:45 CDT" name="tearDown" finished-at="2020-08-17T03:17:45 CDT" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testng.auto.project.testng.AssignmentXDDYaml -->
+      </class> <!-- testng.auto.project.testng.AssignmentXIDDXML -->
     </test> <!-- Assignment9 -->
   </suite> <!-- Assignments -->
 </testng-results>

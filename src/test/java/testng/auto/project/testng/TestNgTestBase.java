@@ -2,12 +2,16 @@ package testng.auto.project.testng;
 
 import java.io.IOException;
 import java.net.URL;
+import java.util.Iterator;
+import java.util.Set;
 
 import org.openqa.selenium.WebDriver;
 
 import org.apache.log4j.Logger;
-import org.openqa.selenium.Capabilities;
 
+import org.openqa.selenium.Capabilities;
+import org.testng.TestNG;
+import org.testng.TestNGUtils;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
@@ -36,7 +40,10 @@ public class TestNgTestBase {
     
     if (config.hasProperty("grid.url") && !"".equals(config.getProperty("grid.url"))) {
       gridHubUrl = new URL(config.getProperty("grid.url"));
+      
     }
+    
+    
   }
   
   
@@ -49,6 +56,7 @@ public class TestNgTestBase {
 	log.debug("Node  Name Passed " + node);
 	capabilities = config.getCapabilities(browserName);
 	log.debug("Broswer in Capabilities  is " + capabilities.getBrowserName());
+
 	
 	// Enable this if you want to hit hub directly.
 	
@@ -68,5 +76,19 @@ public class TestNgTestBase {
   @AfterSuite(alwaysRun = true)
   public void tearDown() {
     WebDriverPool.DEFAULT.dismissAll();
+  }
+  
+  public void closeAllTabsBut(String exceptMain) {
+	  Set <String> tabs;
+	  Iterator <String> iter;
+	  tabs = driver.getWindowHandles();
+	  String tab;
+	  iter = tabs.iterator();
+	  while (iter.hasNext()) {
+		  tab = iter.next();
+		  if (!exceptMain.equals(tab)) {
+			  driver.switchTo().window(tab).close();
+		  }
+	  }	  
   }
 }
